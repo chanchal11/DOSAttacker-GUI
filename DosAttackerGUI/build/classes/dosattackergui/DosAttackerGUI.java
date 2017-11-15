@@ -230,7 +230,6 @@ public class DosAttackerGUI extends javax.swing.JFrame {
                DosAttackerGUI window = new DosAttackerGUI();
                window.setVisible(true);
                window.setResizable(false);
-               window.setTitle("DOS Attacker by Chanchal Shrivastav");
             }
         });
     }
